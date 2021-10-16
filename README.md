@@ -1,0 +1,2 @@
+# mycourse
+course details
